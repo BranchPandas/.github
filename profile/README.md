@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Welcome to the Branch Panda's Organizational Page
-This is a student organization comprized of CPTC students
+This is a student organization comprised of CPTC students
 <!--
 
 **Here are some ideas to get you started:**
